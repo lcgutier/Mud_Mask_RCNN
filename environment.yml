@@ -1,4 +1,4 @@
-name: maskrcnn-tf2
+name: maskrcnn2_env
 channels:
   - defaults
 dependencies:
